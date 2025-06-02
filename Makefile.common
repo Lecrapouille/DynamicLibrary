@@ -1,0 +1,3 @@
+PROJECT_NAME := DynamicLibrary
+PROJECT_VERSION := 0.1.0
+CXX_STANDARD := --std=c++14
